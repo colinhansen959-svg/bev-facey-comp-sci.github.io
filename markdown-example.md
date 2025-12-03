@@ -1,19 +1,19 @@
-# Markdown Example
+# My Markdown Page
 
 This is a markdown file.
 
-## This is a Subheading
+## Subheading
 
-To create an ordered list:
+an ordered list:
 
-1. use numbers
-1. the list items will get automatically numbered
-1. even if you don't use sequential numbers
+1. Thing 1
+1. Thing 2
+1. Thing 3
 
-To create an unordered list:
+an unordered list:
 
-* try this
-    * and this
+* stuff
+    * and things
 
-You should also include [links](index.html).
+Here's a link to my html file [links](index.html).
 
