@@ -1,3 +1,0 @@
-# Three Examples of Internet Services That Rely on Client/Server Relationships.
-
-
