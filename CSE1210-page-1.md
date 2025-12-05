@@ -1,8 +1,3 @@
----
-layout: default
-title: Page 1
----
-
 # 1. Internet Backbone
 
 The internet backbone is the infrastructure that is the main routes for data 
@@ -15,4 +10,5 @@ connect to exchange data.
 A client in terms of the internet is a device that is operateed by the user, like a 
 phone or a computer, and a server is a centralized computer that stores and sends 
 information when it is requested by clients.
+
 
